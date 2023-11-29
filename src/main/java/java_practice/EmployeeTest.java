@@ -5,6 +5,7 @@ public class EmployeeTest extends Employee1 {
 
    public EmployeeTest(String name) {
 		super(name);
+		//jhj
 		// TODO Auto-generated constructor stub
 	}
 
